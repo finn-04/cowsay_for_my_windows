@@ -24,6 +24,7 @@ $bottom = " " + ("-" * $length)
 
 # let's draw our cow
 # @ for multi-line string
+# I PROMISE THIS LOOKS FINE ON MY MAC BUT THERE'S DIFFERENT SPACING ON GIT TRUST
 $cow = @"
         o
          o  ^__^
