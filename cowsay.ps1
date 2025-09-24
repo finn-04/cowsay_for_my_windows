@@ -25,11 +25,11 @@ $bottom = " " + ("-" * $length)
 # let's draw our cow
 # @ for multi-line string
 $cow = @"
-	o
-	 o  ^__^
+        o
+         o  ^__^
 	    (oo)\_______
-	    (__)\       )\/\
-	        ||----w |
+            (__)\       )\/\
+                ||----w |
                 ||     ||
 "@
 
